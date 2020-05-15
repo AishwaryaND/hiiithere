@@ -1,0 +1,164 @@
+Project created on Thu May 14 2020, 10:39:29 GMT+0530 (India Standard Time)
+
+ Info | datasourceDB | init | Thu May 14 2020, 10:39:29 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Thu May 14 2020, 10:39:29 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Thu May 14 2020, 10:39:29 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Thu May 14 2020, 10:39:29 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Thu May 14 2020, 10:39:29 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Thu May 14 2020, 10:39:29 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | createReactNativeProject | Thu May 14 2020, 10:39:29 GMT+0530 (India Standard Time) | Initialized all the DB's
+ Info | projectHandler | createReactNativeProject | Thu May 14 2020, 10:40:08 GMT+0530 (India Standard Time) |                                                           
+               ######                ######               
+             ###     ####        ####     ###             
+            ##          ###    ###          ##            
+            ##             ####             ##            
+            ##             ####             ##            
+            ##           ##    ##           ##            
+            ##         ###      ###         ##            
+             ##  ########################  ##             
+          ######    ###            ###    ######          
+      ###     ##    ##              ##    ##     ###      
+   ###         ## ###      ####      ### ##         ###   
+  ##           ####      ########      ####           ##  
+ ##             ###     ##########     ###             ## 
+  ##           ####      ########      ####           ##  
+   ###         ## ###      ####      ### ##         ###   
+      ###     ##    ##              ##    ##     ###      
+          ######    ###            ###    ######          
+             ##  ########################  ##             
+            ##         ###      ###         ##            
+            ##           ##    ##           ##            
+            ##             ####             ##            
+            ##             ####             ##            
+            ##          ###    ###          ##            
+             ###     ####        ####     ###             
+               ######                ######               
+                                                          
+
+                  Welcome to React Native!                
+                 Learn once, write anywhere               
+
+
+ Error | projectHandler | createReactNativeProject | Thu May 14 2020, 10:40:08 GMT+0530 (India Standard Time) | - Downloading template
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Thu May 14 2020, 10:40:11 GMT+0530 (India Standard Time) | ✔ Downloading template
+- Copying template
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Thu May 14 2020, 10:40:11 GMT+0530 (India Standard Time) | ✔ Copying template
+- Processing template
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Thu May 14 2020, 10:40:11 GMT+0530 (India Standard Time) | ✔ Processing template
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Thu May 14 2020, 10:40:11 GMT+0530 (India Standard Time) | - Installing dependencies
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Thu May 14 2020, 10:41:13 GMT+0530 (India Standard Time) | - Installing CocoaPods dependencies (this may take a few minutes)
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Error | projectHandler | createReactNativeProject | Thu May 14 2020, 10:41:51 GMT+0530 (India Standard Time) | ✔ Installing CocoaPods dependencies (this may take a few minutes)
+
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157314:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157271:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157311:5)
+    at Socket.<anonymous> (http://localhost:1212/dist/renderer.dev.js:19044:37)
+    at Socket.emit (events.js:208:15)
+    at addChunk (_stream_readable.js:295:12)
+    at readableAddChunk (_stream_readable.js:272:13)
+    at Socket.Readable.push (_stream_readable.js:210:10)
+    at Pipe.onStreamRead (internal/stream_base_commons.js:166:17) Info | projectHandler | createReactNativeProject | Thu May 14 2020, 10:41:51 GMT+0530 (India Standard Time) | 
+  Run instructions for iOS:
+    • cd "/Users/aishwaryadodmani/Desktop/ReactApp/reactnative/ReactApp" && npx react-native run-ios
+    - or -
+    • Open ReactApp/ios/ReactApp.xcworkspace in Xcode or run "xed -b ios"
+    • Hit the Run button
+
+  Run instructions for Android:
+    • Have an Android emulator running (quickest way to get started), or a device connected.
+    • cd "/Users/aishwaryadodmani/Desktop/ReactApp/reactnative/ReactApp" && npx react-native run-android
+
+
+ Info | projectHandler | createReactNativeProject | Thu May 14 2020, 10:41:59 GMT+0530 (India Standard Time) | Attempting to create app on server
+ Info | projectHandler | createReactNativeProject | Thu May 14 2020, 10:41:59 GMT+0530 (India Standard Time) | Attempting to run pod install for ios project
+Success | CreatingAppActions | createNewAppOnServer | Thu May 14 2020, 10:42:00 GMT+0530 (India Standard Time) | App created on the server successfully for 'ios' platform
+ Info | ImportExportConfig | exportAppConfiguration | Thu May 14 2020, 10:42:00 GMT+0530 (India Standard Time) | Exported project configuration successfully
+Success | CreatingAppActions | createNewAppOnServer | Thu May 14 2020, 10:42:01 GMT+0530 (India Standard Time) | App created on the server successfully for 'android' platform
+ Info | ImportExportConfig | exportAppConfiguration | Thu May 14 2020, 10:42:01 GMT+0530 (India Standard Time) | Exported project configuration successfully
+ Info | projectHandler | createReactNativeProject | Thu May 14 2020, 10:42:02 GMT+0530 (India Standard Time) | Detected React Native module pods for RNCMaskedView, RNGestureHandler, RNReanimated, RNScreens, react-native-ibm-mobilefirst, and react-native-safe-area-context
+Analyzing dependencies
+
+ Info | projectHandler | createReactNativeProject | Thu May 14 2020, 10:42:06 GMT+0530 (India Standard Time) | Downloading dependencies
+Generating Pods project
+Integrating client project
+Pod installation complete! There are 34 dependencies from the Podfile and 33 total pods installed.
+
+Success | projectHandler | createReactNativeProject | Thu May 14 2020, 10:42:06 GMT+0530 (India Standard Time) | All done! You are ready to rock and roll
+ Info | projectHandler | loadProjectDatabase | Thu May 14 2020, 10:43:52 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/ReactApp
+ Info | datasourceDB | init | Thu May 14 2020, 10:43:52 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Thu May 14 2020, 10:43:52 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Thu May 14 2020, 10:43:52 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Thu May 14 2020, 10:43:52 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Thu May 14 2020, 10:43:52 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Thu May 14 2020, 10:43:52 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Thu May 14 2020, 10:43:52 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Warning | projectHandler | loadProjectDatabase | Thu May 14 2020, 10:44:05 GMT+0530 (India Standard Time) | &#x2F;Users&#x2F;aishwaryadodmani&#x2F;Desktop&#x2F;puttaa is not a valid project
+ Info | projectHandler | loadProjectDatabase | Fri May 15 2020, 11:04:29 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/ReactApp
+ Info | datasourceDB | init | Fri May 15 2020, 11:04:29 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri May 15 2020, 11:04:29 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri May 15 2020, 11:04:29 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri May 15 2020, 11:04:29 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri May 15 2020, 11:04:29 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri May 15 2020, 11:04:29 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Fri May 15 2020, 11:04:29 GMT+0530 (India Standard Time) | Initialized all the DBs
