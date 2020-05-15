@@ -162,3 +162,132 @@ Success | projectHandler | loadProjectDatabase | Thu May 14 2020, 10:43:52 GMT+0
  Info | appDB | init | Fri May 15 2020, 11:04:29 GMT+0530 (India Standard Time) | App DB initialized
  Info | settingsDB | init | Fri May 15 2020, 11:04:29 GMT+0530 (India Standard Time) | SettingsDB initialized
 Success | projectHandler | loadProjectDatabase | Fri May 15 2020, 11:04:29 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Info | ImportExportConfig | importConfiguration | Fri May 15 2020, 11:04:56 GMT+0530 (India Standard Time) | Imported project configuration successfully
+ Info | projectHandler | loadProjectDatabase | Fri May 15 2020, 11:32:43 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/ReactApp
+ Info | datasourceDB | init | Fri May 15 2020, 11:32:43 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri May 15 2020, 11:32:43 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri May 15 2020, 11:32:43 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri May 15 2020, 11:32:43 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri May 15 2020, 11:32:43 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri May 15 2020, 11:32:43 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Fri May 15 2020, 11:32:43 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Info | ImportExportConfig | importConfiguration | Fri May 15 2020, 11:33:16 GMT+0530 (India Standard Time) | Imported project configuration successfully
+ Info | projectHandler | loadProjectDatabase | Fri May 15 2020, 11:37:51 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/ReactApp
+ Info | datasourceDB | init | Fri May 15 2020, 11:37:51 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri May 15 2020, 11:37:51 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri May 15 2020, 11:37:51 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri May 15 2020, 11:37:51 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri May 15 2020, 11:37:51 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri May 15 2020, 11:37:51 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Fri May 15 2020, 11:37:51 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Info | ImportExportConfig | importConfiguration | Fri May 15 2020, 11:38:25 GMT+0530 (India Standard Time) | Imported project configuration successfully
+ Info | projectHandler | loadProjectDatabase | Fri May 15 2020, 11:40:04 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/ReactApp
+ Info | datasourceDB | init | Fri May 15 2020, 11:40:04 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri May 15 2020, 11:40:04 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri May 15 2020, 11:40:04 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri May 15 2020, 11:40:04 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri May 15 2020, 11:40:04 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri May 15 2020, 11:40:04 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Fri May 15 2020, 11:40:04 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Info | ImportExportConfig | importConfiguration | Fri May 15 2020, 11:40:34 GMT+0530 (India Standard Time) | Imported project configuration successfully
+ Info | projectHandler | loadProjectDatabase | Fri May 15 2020, 11:41:37 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/ReactApp
+ Info | datasourceDB | init | Fri May 15 2020, 11:41:37 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri May 15 2020, 11:41:37 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri May 15 2020, 11:41:37 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri May 15 2020, 11:41:37 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri May 15 2020, 11:41:37 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri May 15 2020, 11:41:37 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Fri May 15 2020, 11:41:37 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Error | ImportExportConfig | importConfiguration | Fri May 15 2020, 11:42:03 GMT+0530 (India Standard Time) | Failed to import project configuration
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157338:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157295:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157335:5)
+    at http://localhost:1212/dist/renderer.dev.js:157516:27
+    at _rejected (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:864:24)
+    at /Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:890:30
+    at Promise.when (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:1142:31)
+    at Promise.promise.promiseDispatch (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:808:41)
+    at /Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:624:44
+    at runSingle (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:137:13)
+    at flush (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:125:13)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11) Info | projectHandler | loadProjectDatabase | Fri May 15 2020, 12:02:22 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/ReactApp
+ Info | datasourceDB | init | Fri May 15 2020, 12:02:22 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri May 15 2020, 12:02:22 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri May 15 2020, 12:02:22 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri May 15 2020, 12:02:22 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri May 15 2020, 12:02:22 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri May 15 2020, 12:02:22 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Fri May 15 2020, 12:02:22 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Info | projectHandler | loadProjectDatabase | Fri May 15 2020, 12:04:01 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/ReactApp
+ Info | datasourceDB | init | Fri May 15 2020, 12:04:01 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri May 15 2020, 12:04:01 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri May 15 2020, 12:04:01 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri May 15 2020, 12:04:01 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri May 15 2020, 12:04:01 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri May 15 2020, 12:04:01 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Fri May 15 2020, 12:04:01 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Info | projectHandler | loadProjectDatabase | Fri May 15 2020, 12:05:08 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/ReactApp
+ Info | datasourceDB | init | Fri May 15 2020, 12:05:08 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri May 15 2020, 12:05:08 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri May 15 2020, 12:05:08 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri May 15 2020, 12:05:08 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri May 15 2020, 12:05:08 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri May 15 2020, 12:05:08 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Fri May 15 2020, 12:05:08 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Error | ImportExportConfig | importConfiguration | Fri May 15 2020, 12:05:34 GMT+0530 (India Standard Time) | Failed to import project configuration
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157337:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157294:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157334:5)
+    at http://localhost:1212/dist/renderer.dev.js:157515:27
+    at _rejected (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:864:24)
+    at /Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:890:30
+    at Promise.when (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:1142:31)
+    at Promise.promise.promiseDispatch (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:808:41)
+    at /Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:624:44
+    at runSingle (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:137:13)
+    at flush (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:125:13)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11) Info | projectHandler | loadProjectDatabase | Fri May 15 2020, 12:06:38 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/ReactApp
+ Info | datasourceDB | init | Fri May 15 2020, 12:06:38 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri May 15 2020, 12:06:38 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri May 15 2020, 12:06:38 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri May 15 2020, 12:06:38 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri May 15 2020, 12:06:38 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri May 15 2020, 12:06:38 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Fri May 15 2020, 12:06:38 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Error | ImportExportConfig | importConfiguration | Fri May 15 2020, 12:07:04 GMT+0530 (India Standard Time) | Failed to import project configuration
+Error
+    at http://localhost:1212/dist/renderer.dev.js:157337:28
+    at validateData (http://localhost:1212/dist/renderer.dev.js:157294:10)
+    at Object.error (http://localhost:1212/dist/renderer.dev.js:157334:5)
+    at http://localhost:1212/dist/renderer.dev.js:157515:27
+    at _rejected (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:864:24)
+    at /Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:890:30
+    at Promise.when (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:1142:31)
+    at Promise.promise.promiseDispatch (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:808:41)
+    at /Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:624:44
+    at runSingle (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:137:13)
+    at flush (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:125:13)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11) Info | projectHandler | loadProjectDatabase | Fri May 15 2020, 12:09:57 GMT+0530 (India Standard Time) | Initializing DBs for workspace  /Users/aishwaryadodmani/Desktop/ReactApp
+ Info | datasourceDB | init | Fri May 15 2020, 12:09:57 GMT+0530 (India Standard Time) | Data source DB initialized
+ Info | dsActionsDB | init | Fri May 15 2020, 12:09:57 GMT+0530 (India Standard Time) | Data source actions DB initialized
+ Info | dsAttributesDB | init | Fri May 15 2020, 12:09:57 GMT+0530 (India Standard Time) | Data source attributes DB initialized
+ Info | dsActionsMoreDB | init | Fri May 15 2020, 12:09:57 GMT+0530 (India Standard Time) | Data source actions More DB Initialized
+ Info | appDB | init | Fri May 15 2020, 12:09:57 GMT+0530 (India Standard Time) | App DB initialized
+ Info | settingsDB | init | Fri May 15 2020, 12:09:57 GMT+0530 (India Standard Time) | SettingsDB initialized
+Success | projectHandler | loadProjectDatabase | Fri May 15 2020, 12:09:57 GMT+0530 (India Standard Time) | Initialized all the DBs
+ Error | ImportExportConfig | importConfiguration | Fri May 15 2020, 12:10:25 GMT+0530 (India Standard Time) | Failed to import project configuration
+Error
+    at http://localhost:4343/dist/renderer.dev.js:157337:28
+    at validateData (http://localhost:4343/dist/renderer.dev.js:157294:10)
+    at Object.error (http://localhost:4343/dist/renderer.dev.js:157334:5)
+    at http://localhost:4343/dist/renderer.dev.js:157515:27
+    at _rejected (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:864:24)
+    at /Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:890:30
+    at Promise.when (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:1142:31)
+    at Promise.promise.promiseDispatch (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:808:41)
+    at /Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:624:44
+    at runSingle (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:137:13)
+    at flush (/Users/aishwaryadodmani/Desktop/forkedMaster/mfp-rapidapp/app/node_modules2/mf-server-commands/node_modules/q/q.js:125:13)
+    at processTicksAndRejections (internal/process/task_queues.js:75:11)
